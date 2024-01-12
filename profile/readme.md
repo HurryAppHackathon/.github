@@ -1,5 +1,5 @@
 # HurryAppHackathon
-# Working Workers
+# Team
 - Arty (Backend)
 - Adel (Fullstack)
 - Ahmed (z7pz) (Frontend)
