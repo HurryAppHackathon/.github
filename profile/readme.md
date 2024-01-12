@@ -3,7 +3,7 @@
 - Arty (Backend)
 - Adel (Fullstack)
 - Ahmed (z7pz) (Frontend)
-- Muntadar (Mobeil)
+- Muntadar (Mobile)
 
 # requirements
 - registeration process
