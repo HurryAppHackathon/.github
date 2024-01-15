@@ -32,3 +32,8 @@ Mobile Client (Flutter)
 - [X] Home
 - [X] Application
 - [X] Invite
+
+
+# UPDATE
+## We won the Hackathon!!! 
+![image](https://github.com/HurryAppHackathon/.github/assets/63007978/38ab733b-e1ca-4d63-9196-c095c3531793)
