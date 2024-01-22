@@ -2,7 +2,7 @@
 # Team
 - Arty (Backend)
 - Adel (Fullstack)
-- Ahmed (z7pz) (Frontend)
+- Ahmed (z7pz) (Frontend) AND (UI/UX Designer)
 - Muntadar (Mobile)
 
 # requirements
