@@ -35,5 +35,5 @@ Mobile Client (Flutter)
 
 
 # UPDATE
-## We won the Hackathon!!! 
-![image](https://github.com/HurryAppHackathon/.github/assets/63007978/38ab733b-e1ca-4d63-9196-c095c3531793)
+## We won the Hackathon!!! (1st)
+
